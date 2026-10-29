@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hello! Welcome to My GitHub Profile!<br><br>💻 I am an aspiring Software Developer and Web Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy exploring new technologies, solving problems, and turning creative ideas into practical digital solutions.<br><br>🌐 Web Development: HTML, CSS, JavaScript, Bootstrap, React.js,Tailwind CSS<br><br>🐍Backend & Database: Python and SQL (currently learning)<br><br>⚛️ Frontend Development: Building responsive layouts, reusable React components, and interactive user interfaces.<br><br>🚀 What I’m Working On:<br>- Developing responsive and user-friendly websites.<br>- Building projects to strengthen my programming skills.<br>- Learning backend development and database management.<br>- Exploring APIs, React Hooks, and modern web technologies.<br>- Improving my problem-solving and software development skills.<br><br>📚 My Learning Philosophy:<br>I believe in continuous learning, practical experience, and consistent improvement. Every project is an opportunity to learn something new, overcome challenges, and become a better developer.<br><br>🎯 My Goal: To become a skilled Software Engineer, build meaningful software solutions, and contribute to innovative projects that make a positive impact.<br><br>🤝 I’m always open to learning, collaborating on projects, sharing ideas, and connecting with fellow developers.<br><br>✨ Keep Learning | Keep Building | Keep Growing!
 
-<!--
-**developer3444/developer3444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fareena-amjad-486a89395?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=developer3444&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=developer3444&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=developer3444&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=developer3444&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
